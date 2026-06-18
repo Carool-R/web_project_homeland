@@ -1,13 +1,14 @@
-@import url("../fornecedor/normalize.css");
+@import url("../vendor/normalize.css");
 
-@import url("../fornecedor/fonts.css");
+@import url("../vendor/fonts.css");
 
-@import url("../blocos/page.css");
-@import url("../blocos/header.css");
-@import url("../blocos/lead.css");
-@import url("../blocos/intro.css");
-@import url("../blocos/photo-grid.css");
-@import url("../blocos/places.css");
-@import url("../blocos/place.css");
-@import url("../blocos/cover.css");
-@import url("../blocos/footer.css");
+@import url("../blocks/page.css");
+@import url("../blocks/header.css");
+@import url("../blocks/content.css");
+@import url("../blocks/lead.css");
+@import url("../blocks/intro.css");
+@import url("../blocks/photo-grid.css");
+@import url("../blocks/places.css");
+@import url("../blocks/place.css");
+@import url("../blocks/cover.css");
+@import url("../blocks/footer.css");
